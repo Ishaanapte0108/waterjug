@@ -84,4 +84,4 @@ class waterjug:
 			print(self.list)
 			
 # w = waterjug(9,6,7)
-w = waterjug(5,3,2)
+w = waterjug(7,13,8)
